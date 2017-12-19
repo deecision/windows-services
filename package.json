@@ -1,0 +1,15 @@
+{
+  "name": "windows-services",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Julien Galenski <julien.galenski@deecision.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "node-windows": "^0.1.11"
+  },
+  "scripts": {
+    "install": "node index.js install",
+    "uninstall": "node index.js uninstall"
+  }
+}
