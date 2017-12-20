@@ -22,11 +22,11 @@ Example
 -------
 
 ```
-npm run install -- --path=C:\\Users\\Deecision\\Projects\\Reech.exe
+npm run install -- --path=C:\\Users\\deecision2017\\deecisions\\reech\\Reech.exe
 ```
 
 Will create a new service called.
 
-```[Deecision] C:\\Users\\Deecision\\Projects\\Reech.exe```
+```[Deecision] C:\\Users\\deecision2017\\deecisions\\reech\\Reech.exe```
 
-[Services windows](https://github.com/deecision/windows-services/blob/feat-readme/services.png?raw=true)
+![Services windows](https://github.com/deecision/windows-services/blob/feat-readme/services.png?raw=true)
