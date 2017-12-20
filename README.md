@@ -17,3 +17,16 @@ npm install
 npm run install -- --path=ABSOLUTE_PATH_TO_YOUR_EXEC
 npm run uninstall -- --path=ABSOLUTE_PATH_TO_YOUR_EXEC
 ```
+
+Example
+-------
+
+```
+npm run install -- --path=C:\\Users\\deecision2017\\deecisions\\reech\\Reech.exe
+```
+
+Will create a new service called.
+
+```[Deecision] C:\\Users\\deecision2017\\deecisions\\reech\\Reech.exe```
+
+![Services windows](https://github.com/deecision/windows-services/blob/feat-readme/services.png?raw=true)
